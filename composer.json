@@ -1,5 +1,5 @@
 {
-    "name": "makhov/phpmorphy",
+    "name": "nikitindv/phpmorphy",
     "description": "phpMorphy - morphological analyzer library for Russisan, English and German languages",
     "keywords": ["phpMorphy", "php-morphy", "phpmorphy"],
     "homepage": "http://phpmorphy.sourceforge.net/",
